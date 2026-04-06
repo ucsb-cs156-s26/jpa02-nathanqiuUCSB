@@ -1,4 +1,4 @@
-# STARTER-jpa02-nathanqiuUCSB
+# jpa02-nathanqiuUCSB
 
   
 
