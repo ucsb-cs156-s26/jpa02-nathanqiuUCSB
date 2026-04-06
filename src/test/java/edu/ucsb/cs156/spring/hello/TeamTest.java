@@ -32,7 +32,7 @@ public class TeamTest {
     @Test
     public void equals_same_object(){
 
-        assertEquals(true, team == team);
+        assertEquals(true, team.equals(team));
     }
     @Test 
     public void equals_differentClass(){
